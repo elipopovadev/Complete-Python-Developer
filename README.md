@@ -1,6 +1,7 @@
 # Tournament-Tracker 
 
 Featured technologies and technique used include:
+
     OOP
     SQL databases
     CSV text files
