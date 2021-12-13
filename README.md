@@ -2,12 +2,11 @@
 
 Featured technologies and technique used include:
 
-    OOP
-    SQL databases
-    CSV text files
-    Custom events
+    Multi-form WinForms application
+    In-depth Class Library
+    SQL Database
+    Text File Storage
+    Dapper
     Linq
-    Lambda expressions
-    Emailling
-    App.config data storage and retrieval
+    Interfaces
     
