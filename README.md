@@ -1,6 +1,6 @@
 # Tournament-Tracker 
 
-Featured technologies and technique used include:
+Featured technologies used include:
 
     Multi-form WinForms application
     In-depth Class Library
