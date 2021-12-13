@@ -9,4 +9,7 @@ Featured technologies and technique used include:
     Dapper
     Linq
     Interfaces
+    Emailing from C#
+    Custom Events
+    Advanced Debugging
     
