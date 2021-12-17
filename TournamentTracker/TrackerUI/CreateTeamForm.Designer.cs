@@ -157,7 +157,7 @@
             this.firstNameLabel.AutoSize = true;
             this.firstNameLabel.Font = new System.Drawing.Font("Segoe UI Light", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.firstNameLabel.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.firstNameLabel.Location = new System.Drawing.Point(7, 41);
+            this.firstNameLabel.Location = new System.Drawing.Point(5, 47);
             this.firstNameLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.firstNameLabel.Name = "firstNameLabel";
             this.firstNameLabel.Size = new System.Drawing.Size(168, 45);
@@ -178,7 +178,7 @@
             this.lastNameLabel.AutoSize = true;
             this.lastNameLabel.Font = new System.Drawing.Font("Segoe UI Light", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lastNameLabel.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.lastNameLabel.Location = new System.Drawing.Point(7, 100);
+            this.lastNameLabel.Location = new System.Drawing.Point(7, 103);
             this.lastNameLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lastNameLabel.Name = "lastNameLabel";
             this.lastNameLabel.Size = new System.Drawing.Size(166, 45);
