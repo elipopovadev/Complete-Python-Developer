@@ -1,5 +1,4 @@
-﻿
-Pet[] pets = { new Pet { Name="Barley", Age=8 },
+﻿Pet[] pets = { new Pet { Name="Barley", Age=8 },
                    new Pet { Name="Boots", Age=4 },
                    new Pet { Name="Whiskers", Age=1 } };
 
