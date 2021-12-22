@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average", "Average\Average.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count", "Count\Count.csproj", "{C8CB95C1-F15F-4C41-8DA0-9C8A2D1491F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongCount", "LongCount\LongCount.csproj", "{899D9AC6-23DA-4BDA-9BC8-5D651507FFC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C8CB95C1-F15F-4C41-8DA0-9C8A2D1491F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8CB95C1-F15F-4C41-8DA0-9C8A2D1491F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8CB95C1-F15F-4C41-8DA0-9C8A2D1491F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899D9AC6-23DA-4BDA-9BC8-5D651507FFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899D9AC6-23DA-4BDA-9BC8-5D651507FFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899D9AC6-23DA-4BDA-9BC8-5D651507FFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899D9AC6-23DA-4BDA-9BC8-5D651507FFC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
