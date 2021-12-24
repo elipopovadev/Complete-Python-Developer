@@ -2,5 +2,5 @@
 var result = objects.OfType<string>();
 foreach (var item in result)
 {
-    Console.WriteLine(item);
+    Console.WriteLine(item); // Thomas, Joey
 }
