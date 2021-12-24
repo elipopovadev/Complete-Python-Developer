@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToArray", "ToArray\ToArray.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDictionary", "ToDictionary\ToDictionary.csproj", "{54087318-E98C-4952-BE1F-0E10663BAED7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToList", "ToList\ToList.csproj", "{5610C23D-75C9-4105-BD48-3DEC35E78822}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{54087318-E98C-4952-BE1F-0E10663BAED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54087318-E98C-4952-BE1F-0E10663BAED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54087318-E98C-4952-BE1F-0E10663BAED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5610C23D-75C9-4105-BD48-3DEC35E78822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5610C23D-75C9-4105-BD48-3DEC35E78822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5610C23D-75C9-4105-BD48-3DEC35E78822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5610C23D-75C9-4105-BD48-3DEC35E78822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
