@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cast", "Cast\Cast.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfType", "OfType\OfType.csproj", "{29693F51-FD39-4299-97F5-7BD1F2D70633}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToArray", "ToArray\ToArray.csproj", "{A8C9B0F2-F8CE-43E2-B1AE-02A26BCF27C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{29693F51-FD39-4299-97F5-7BD1F2D70633}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29693F51-FD39-4299-97F5-7BD1F2D70633}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29693F51-FD39-4299-97F5-7BD1F2D70633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C9B0F2-F8CE-43E2-B1AE-02A26BCF27C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C9B0F2-F8CE-43E2-B1AE-02A26BCF27C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C9B0F2-F8CE-43E2-B1AE-02A26BCF27C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C9B0F2-F8CE-43E2-B1AE-02A26BCF27C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
