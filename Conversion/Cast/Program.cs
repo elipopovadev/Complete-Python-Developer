@@ -3,5 +3,5 @@
 var result = vegetables.Cast<string>();
 foreach (var item in result)
 {
-    Console.WriteLine(item);
+    Console.WriteLine(item); // Cucumber, Tomato, Broccoli
 }
