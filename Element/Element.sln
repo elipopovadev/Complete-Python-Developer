@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElementAtOrDefault", "Eleme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First", "First\First.csproj", "{3F50B5A2-3ACD-4709-AA8F-598030CC9938}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstOrDefault", "FirstOrDefault\FirstOrDefault.csproj", "{F18F86D8-F80F-4DAF-B321-2BBB4F785D0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3F50B5A2-3ACD-4709-AA8F-598030CC9938}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F50B5A2-3ACD-4709-AA8F-598030CC9938}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F50B5A2-3ACD-4709-AA8F-598030CC9938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18F86D8-F80F-4DAF-B321-2BBB4F785D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18F86D8-F80F-4DAF-B321-2BBB4F785D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18F86D8-F80F-4DAF-B321-2BBB4F785D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18F86D8-F80F-4DAF-B321-2BBB4F785D0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
