@@ -22,3 +22,5 @@ print(operator.eq(10, 10))  # check if a == b and returns bool
 print(operator.gt(10, 5))  # check if a > b and returns bool
 print(operator.ge(10, 10))  # check if a <= b and returns bool
 print(operator.ne(10, 5))  # returns true if a is not equal to b
+
+
