@@ -24,6 +24,3 @@ print(type(4.043954323))
 
 #Returns <class 'int'>
 print(type(0))
-
-
-
