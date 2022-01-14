@@ -16,3 +16,5 @@ print(text[0:8:3])  # 036
 
 # Reverse string
 print(text[::-1])  # 76543210
+
+
