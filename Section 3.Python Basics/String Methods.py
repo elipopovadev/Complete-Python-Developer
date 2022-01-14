@@ -36,14 +36,3 @@ new_name = name * 3
 print(new_name) # elenaelenaelena
 
 
-
-
-
-
-
-
-
-
-
-
-
