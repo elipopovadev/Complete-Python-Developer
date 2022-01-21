@@ -9,7 +9,7 @@ for element in some_list:
 
 for key, value in some_dictionary.items():
     if value > 1:
-       print(key, end = ' ')
+       print(key, end=' ')
 
 # another way
 duplicates = []
@@ -17,6 +17,7 @@ duplicates = []
 for x in some_list:
     if some_list.count(x) > 1 and x not in duplicates:
        duplicates.append(x)
-        
+
 print()
 print(duplicates)
+
