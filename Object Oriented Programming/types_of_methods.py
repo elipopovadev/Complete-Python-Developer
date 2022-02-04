@@ -13,7 +13,7 @@ class Cat:
     
     @staticmethod
     def info():
-        print("This is class Cat")
+        print("This is a class Cat")
     
     
 cat1 = Cat("Robi", 5)
