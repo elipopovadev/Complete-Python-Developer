@@ -19,6 +19,6 @@ class Cat:
 cat1 = Cat("Robi", 5)
 print(cat1.eating()) # Instance method
 
-print(Cat.get_species()) # Classmethod method
+print(Cat.get_species()) # Class method 
     
 Cat.info() # Static method
