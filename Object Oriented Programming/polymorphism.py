@@ -10,7 +10,6 @@ class Cat():
 class PersianCat(Cat):
     def __init__(self, name, age):
         super().__init__(name, age)
-        
 
 class BengalCat(Cat):
     def __init__(self, name, age):
