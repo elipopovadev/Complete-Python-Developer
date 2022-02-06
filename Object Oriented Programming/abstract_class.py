@@ -17,9 +17,9 @@ class Shape(ABC):
     def area(self, value):
        pass
         
-    @abstractmethod
+  
     def print_shape(self):
-        pass
+       pass
 
 class Rectangle(Shape):
     def __init__(self, area, perimeter):
