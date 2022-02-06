@@ -10,4 +10,9 @@ def my_decorator(func):
 def print_hello():
     print("Heloooooo")
     
+@my_decorator
+def print_bye():
+    print("See ya later")
+    
 print_hello()
+print_bye()
