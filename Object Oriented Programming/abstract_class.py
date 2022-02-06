@@ -16,10 +16,10 @@ class Shape(ABC):
     @perimeter.setter
     def area(self, value):
        pass
-        
-  
+       
     def print_shape(self):
-       pass
+         print(f"Area is: {self.area} and perimeter is: {self.perimeter}")
+         
 
 class Rectangle(Shape):
     def __init__(self, area, perimeter):
@@ -48,10 +48,7 @@ class Rectangle(Shape):
         else:
             raise ValueError("The perimeter can not be negative!")
                
-    def print_shape(self):
-        print(f"Rectangle has area: {self.area} and perimeter: {self.perimeter}")
-        
-        
+           
 rectangle1 = Rectangle(10, 40)
 rectangle1.area = 9
 rectangle1.print_shape()
