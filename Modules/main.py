@@ -1,6 +1,8 @@
-import utility
+from utility import multiply, sum, deviation
+from shopping import shopping_card
 
-print(utility.multiply(4, 4))
-print(utility.sum(4, 3))
-print(utility.deviation(10, 2))
-
+if __name__ == '__main__':
+    print(multiply(4, 4))
+    print(sum(4, 3))
+    print(deviation(10, 2))
+    print(shopping_card.buy("apple"))
