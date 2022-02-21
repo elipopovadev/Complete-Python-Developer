@@ -1,5 +1,7 @@
 # Complete Python Developer
 
+(https://user-images.githubusercontent.com/75258625/155038269-be56c060-b369-46fc-bddd-8df232a8e70e.png)
+
 
 
 The topics covered in this course are:
