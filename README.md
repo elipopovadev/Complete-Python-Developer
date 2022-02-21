@@ -1,6 +1,7 @@
 # Complete Python Developer
 
 
+
 The topics covered in this course are:
 
 - Programming Fundamentals
