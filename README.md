@@ -1,4 +1,4 @@
-# Complete-Python-Developer
+# Complete Python Developer
 
 
 The topics covered in this course are:
