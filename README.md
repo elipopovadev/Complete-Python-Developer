@@ -35,5 +35,3 @@ The topics covered in this course are:
 - Kaggle, Pandas, NumPy, scikit-learn
 - Email and SMS with Python
 - Working with APIs (Twitter Bot, Password Checker, Translator)
-
-![!](https://user-images.githubusercontent.com/75258625/154954562-d5d5ff71-f173-4aaf-ae47-fe3e9f169f4f.jpg)
