@@ -11,3 +11,4 @@ input1 = input().split(" ")
 result = list(set(input1))
 result.sort()
 print(" ".join(result))
+
