@@ -11,5 +11,3 @@ for var in inputStr:
     variable_int = int(var, 2)
     if variable_int % 5 == 0:
         print(var)
-
-        
