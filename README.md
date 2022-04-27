@@ -4,7 +4,7 @@
 
 
 
-The topics covered in this course are:
+### The topics covered in this course are:
 
 - Programming Fundamentals
 - Python Basics
