@@ -3,7 +3,6 @@
 ![!](https://user-images.githubusercontent.com/75258625/155038269-be56c060-b369-46fc-bddd-8df232a8e70e.png)
 
 
-
 ### The topics covered in this course are:
 
 - Programming Fundamentals
@@ -36,4 +35,4 @@
 - Email and SMS with Python
 - Working with APIs (Twitter Bot, Password Checker, Translator)
 
-![UC-39035290-f7a6-4ab0-b5f2-e3d4281021c6](https://user-images.githubusercontent.com/75258625/163015279-ae585716-d4c2-4872-917f-c4db3ccf823c.jpg)
+![Screenshot 2022-05-26 223827](https://user-images.githubusercontent.com/75258625/170565051-9cd2881b-833b-45a1-9ee9-c7377612a28e.png) 
